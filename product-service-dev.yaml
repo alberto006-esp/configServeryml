@@ -2,8 +2,3 @@ server:
   port: 8081
 product:
   product-name: Zapatillas de Deporte en DEV
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
